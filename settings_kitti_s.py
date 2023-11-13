@@ -1,7 +1,7 @@
 seed = 7240
 n_device = 8
 # dataset
-KITTI_PATH = '/media/lin/dataset/kitti_depth_completion'
+KITTI_PATH = 'dataset/kitti_depth_completion'
 split_train = "dataset/index_files/kitti_dc_s_train.txt"
 split_val = "dataset/index_files/kitti_dc_s_val.txt"
 test_only = False
