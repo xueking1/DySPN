@@ -1,5 +1,3 @@
-typing_extensions
-numpy==1.23.5
 pytorch_lightning
 einops
 opencv_python
